@@ -19,6 +19,6 @@ A funcão extrato recebe os argumentos por posição e nome (positional only e k
 
 O programa armazena os usuários em lista, um usuário é composto por: nome, data de nascimento, cpf e endereço. O endereço é ua string com o formato: logradouro, número, bairro, cidade / sigla estado. Deve ser armazenado somente os números do CPF. Não se pode cadastrar 2 usuários ou mais com o mesmo CPF.
 
-O programa armazena contas em uma lista, uma conta é composta por: agencia, numero da conta e usuario. O numero da contaé sequencial, inciando em 1. O número da agência é fixo: "0001". O usuário pode ter mais de uma conta, mas uma conta pertence somente a um usuário.
+O programa armazena contas em uma lista, uma conta é composta por: agencia, numero da conta e usuario. O numero da conta é sequencial, inciando em 1. O número da agência é fixo: "0001". O usuário pode ter mais de uma conta, mas uma conta pertence somente a um usuário.
 
 O usuário é vinculado a uma conta, filtrando a lista de usuarios buscando o número do CPF informado para cada usuario da lista.
